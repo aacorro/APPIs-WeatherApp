@@ -1,0 +1,17 @@
+C:\Users\abdie\OneDrive\Desktop\TrueCoders\repos\APIs WeatherApp\bin\Debug\net6.0\APIs WeatherApp.exe
+C:\Users\abdie\OneDrive\Desktop\TrueCoders\repos\APIs WeatherApp\bin\Debug\net6.0\APIs WeatherApp.deps.json
+C:\Users\abdie\OneDrive\Desktop\TrueCoders\repos\APIs WeatherApp\bin\Debug\net6.0\APIs WeatherApp.runtimeconfig.json
+C:\Users\abdie\OneDrive\Desktop\TrueCoders\repos\APIs WeatherApp\bin\Debug\net6.0\APIs WeatherApp.dll
+C:\Users\abdie\OneDrive\Desktop\TrueCoders\repos\APIs WeatherApp\bin\Debug\net6.0\APIs WeatherApp.pdb
+C:\Users\abdie\OneDrive\Desktop\TrueCoders\repos\APIs WeatherApp\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\abdie\OneDrive\Desktop\TrueCoders\repos\APIs WeatherApp\obj\Debug\net6.0\APIs WeatherApp.csproj.AssemblyReference.cache
+C:\Users\abdie\OneDrive\Desktop\TrueCoders\repos\APIs WeatherApp\obj\Debug\net6.0\APIs WeatherApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abdie\OneDrive\Desktop\TrueCoders\repos\APIs WeatherApp\obj\Debug\net6.0\APIs WeatherApp.AssemblyInfoInputs.cache
+C:\Users\abdie\OneDrive\Desktop\TrueCoders\repos\APIs WeatherApp\obj\Debug\net6.0\APIs WeatherApp.AssemblyInfo.cs
+C:\Users\abdie\OneDrive\Desktop\TrueCoders\repos\APIs WeatherApp\obj\Debug\net6.0\APIs WeatherApp.csproj.CoreCompileInputs.cache
+C:\Users\abdie\OneDrive\Desktop\TrueCoders\repos\APIs WeatherApp\obj\Debug\net6.0\APIs WeatherApp.csproj.CopyComplete
+C:\Users\abdie\OneDrive\Desktop\TrueCoders\repos\APIs WeatherApp\obj\Debug\net6.0\APIs WeatherApp.dll
+C:\Users\abdie\OneDrive\Desktop\TrueCoders\repos\APIs WeatherApp\obj\Debug\net6.0\refint\APIs WeatherApp.dll
+C:\Users\abdie\OneDrive\Desktop\TrueCoders\repos\APIs WeatherApp\obj\Debug\net6.0\APIs WeatherApp.pdb
+C:\Users\abdie\OneDrive\Desktop\TrueCoders\repos\APIs WeatherApp\obj\Debug\net6.0\APIs WeatherApp.genruntimeconfig.cache
+C:\Users\abdie\OneDrive\Desktop\TrueCoders\repos\APIs WeatherApp\obj\Debug\net6.0\ref\APIs WeatherApp.dll

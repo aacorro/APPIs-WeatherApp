@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "kOBj34BYHQWDfBcH1cs5FVwuxz8cnU/eB39t4ISbRf+5Q95BCLqdBZ80MzvEVQ2fM716AHbcB5xILemfa9S5KQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\abdie\\OneDrive\\Desktop\\TrueCoders\\repos\\APIs WeatherApp\\APIs WeatherApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\abdie\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
